@@ -26,3 +26,6 @@ The protocol funds itself by charging a fee on the mint of ETs.
 ## Limitations of DEF
 1. DEF only provides the infrastructure for companies to go public and for investors to participate in the new decentral primary market. It is not responsible for the successfullness of the IPO and ROI for the investors. All risks need to be assessed by companies and investors on their own.
 2. TBA
+
+## Rights and intellectual property
+All rights and ownership reside with Sid Lamichhane.
